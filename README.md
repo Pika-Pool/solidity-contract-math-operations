@@ -8,11 +8,11 @@
 
 ### How to run the tests
 1. Install dependencies
-	```sh
-	yarn install
-	```
+```sh
+yarn install
+```
 
 2 Run tests
-	```sh
-	yarn test
-	```
+```sh
+yarn test
+```
